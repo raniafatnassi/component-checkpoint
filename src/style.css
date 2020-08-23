@@ -1,0 +1,12 @@
+.profile{
+    background-color: aquamarine;
+    text-align: center;
+    text-decoration-style: wavy;
+}
+
+.profilePhoto{
+    width : 400px;
+    height: 300px;
+    display: flex;
+    margin: 50px 500px;
+}
